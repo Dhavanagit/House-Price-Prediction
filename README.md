@@ -26,11 +26,3 @@ This project is designed for **engineering students** or beginners in ML to lear
 - Step-by-step workflow suitable for learning  
 
 ---
-
-## 🛠️ Setup Instructions
-
-### 1️⃣ Clone the Repository
-
-```bash
-git clone https://github.com/YourUsername/House-Price-Prediction.git
-cd House-Price-Prediction
